@@ -6,4 +6,4 @@ This package copies data from https://github.com/moby/moby/blob/master/pkg/names
 
 - [Documentation](https://confetticode.com/open-source/random-name)
 - [Contributing](https://confetticode.com/open-source/random-name#contributing)
-- [License](https://confetticode.com/open-source/random-name#license)
+- [License](./LICENSE.md)
