@@ -1,6 +1,6 @@
 {
     "name": "confetticode/random-name",
-    "description": "Generate random names, Eg for docker container or VPS.",
+    "description": "Generate random names, Eg for docker container or VPS",
     "type": "library",
     "license": "MIT",
     "authors": [
