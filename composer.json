@@ -1,6 +1,6 @@
 {
     "name": "confetticode/random-name",
-    "description": "Generate random names, Eg for docker container or VPS",
+    "description": "Generate random names for any kind of entities",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -22,6 +22,9 @@
         "files": [
             "functions.php"
         ]
+    },
+    "scripts": {
+        "test": "phpunit tests"
     },
     "minimum-stability": "stable"
 }
