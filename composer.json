@@ -24,7 +24,7 @@
         ]
     },
     "scripts": {
-        "test": "phpunit tests"
+        "test": "phpunit tests --colors=always"
     },
     "minimum-stability": "stable"
 }
