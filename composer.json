@@ -25,7 +25,9 @@
         ]
     },
     "autoload-dev": {
-        "Tests\\ConfettiCode\\RandomName\\": "tests/"
+        "psr-4": {
+            "Tests\\ConfettiCode\\RandomName\\": "tests/"
+        }
     },
     "scripts": {
         "test": "phpunit tests --colors=always"
