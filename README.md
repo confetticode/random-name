@@ -32,4 +32,4 @@ Thank you for considering contributing to the `ConfettiCode` project! The contri
 
 ## License
 
-The MIT License (MIT). Please see [License File](./LICENSE.md) for more information.
+The MIT License (MIT). Please see the [License](./LICENSE.md) for more information.
