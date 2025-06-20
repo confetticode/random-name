@@ -26,10 +26,6 @@ require __DIR__ . '/vendor/autoload.php';
 echo random_name(); // Eg: golick-suspicious
 ```
 
-## Contributing
-
-Thank you for considering contributing to the `ConfettiCode` project! The contribution guide can be found in the [contributing documentation](https://github.com/confetticode/.github/blob/master/CONTRIBUTING.md).
-
 ## License
 
-The MIT License (MIT). Please see the [License](./LICENSE.md) for more information.
+The `confetticode/random-name` package is licensed under the [MIT license](./LICENSE.md).
